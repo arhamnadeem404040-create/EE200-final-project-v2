@@ -430,7 +430,7 @@ st.markdown(f"""
   <div class="topbar-left">
     <div class="topbar-eyebrow">◆ EE200 || Signals, Systems &amp; Networks || Project </div>
     <div class="topbar-title">🎵 Zapptain America</div>
-    <div class="topbar-sub">Audio Fingerprinting &amp; Song Recognition Syatem</div>
+    <div class="topbar-sub">Audio Fingerprinting &amp; Song Recognition System</div>
   </div>
 </div>""", unsafe_allow_html=True)
 
